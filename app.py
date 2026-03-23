@@ -487,6 +487,8 @@ with tab2:
         title="Feature Importance for Hospitalization Risk",
         xaxis_title="Importance",
         yaxis_title=None,
+        yaxis=dict(tickfont=dict(color="#1E1B18", size=12)),
+        xaxis=dict(tickfont=dict(color="#4A4540", size=11)),
         **PLOTLY_LAYOUT
     )
     st.plotly_chart(fig, use_container_width=True)
