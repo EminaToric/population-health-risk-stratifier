@@ -2,7 +2,7 @@
 
 An interactive machine learning application that segments a synthetic patient population by health risk, identifies the key drivers of hospitalization, and surfaces the social determinants that layer onto clinical risk.
 
-**Live Demo:** [View App](#) ← replace with your Streamlit URL
+**Live Demo:** [View App](#) 
 
 ---
 
