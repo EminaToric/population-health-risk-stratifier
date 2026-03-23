@@ -295,7 +295,8 @@ PLOTLY_LAYOUT = dict(
     paper_bgcolor="rgba(0,0,0,0)",
     plot_bgcolor="#FDFAF7",
     font=dict(family="DM Sans", color="#4A4540", size=12),
-    margin=dict(t=30, b=30, l=10, r=10),
+    title_font=dict(family="DM Sans", color="#1E1B18", size=14),
+    margin=dict(t=40, b=30, l=10, r=10),
 )
 
 # ── Load data ─────────────────────────────────────────────────────────────────
